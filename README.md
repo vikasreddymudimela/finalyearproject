@@ -1,1 +1,2 @@
-# finalyearproject
+The project detects  fruits  and its diseases  and it also suggests pesticides for fruit diseases.The user interface takes image as input  and the image is analysed 
+to   find  fruit  and diseases along with suggesting pesticide which can be seen by executing  ui.py for interface.The prerequisites of this project is to execute training.py for creating the machine learning model  and execution should be  done in seperate folder.The dataset of model consists of 13,000 fruit images which include apple,banana,orange,papaya,watermelon for nineteen categories. 
